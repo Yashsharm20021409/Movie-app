@@ -1,0 +1,25 @@
+{
+  "short_name": "Cine Magic",
+  "name": "Cine Magic",
+  "icons": [
+    {
+      "src": "favicon1.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon1.jpg",
+      "type": "image/png/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon1.jpg",
+      "type": "image/png/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#000000"
+}
